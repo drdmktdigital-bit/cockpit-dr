@@ -3,8 +3,8 @@ import { supabase } from "./supabase.js";
 import Cockpit from "./Cockpit.jsx";
 
 const C = {
-  bg: "#0E1420", card: "#161F2E", cardSoft: "#1C2738", border: "#26344B",
-  text: "#E8EDF5", dim: "#8A97AB", accent: "#F5A524", expense: "#F0616D",
+  bg: "#141213", card: "#1F1D1E", cardSoft: "#2A2728", border: "#3A3637",
+  text: "#E9E9E9", dim: "#9A9496", accent: "#FF5A1F", expense: "#F0616D",
 };
 
 export default function App() {
